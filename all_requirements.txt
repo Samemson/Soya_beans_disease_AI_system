@@ -1,0 +1,20 @@
+#Libraries
+numpy
+cv2
+keras
+PIL
+tensorflow
+pyttsx3 2.9.0
+os
+
+#others
+pip 23.2.1
+conda(python) 3.11.5
+Anaconda
+Vs-code
+
+#pc specs
+At least;
+4GB RAM
+2.0 GHz
+256GB HDD/SSD

@@ -1,0 +1,6 @@
+0 Bacterial Pustule
+1 Frogeye Leaf Spot
+2 Healthy
+3 Sudden Death Syndrome
+4 Target Leaf Spot
+5 Yellow Mosaic

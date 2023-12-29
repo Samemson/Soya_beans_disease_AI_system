@@ -1,0 +1,7 @@
+cmake
+numpy
+opencv-python
+keras
+Pillow
+tensorflow
+pyttsx3==2.9.0
